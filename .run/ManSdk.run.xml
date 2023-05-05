@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ManSdk" type="CompoundRunConfigurationType">
+    <toRun name="YarpLink.CallbackService" type="LaunchSettings" />
+    <toRun name="YarpLink.ManServer.Host" type="LaunchSettings" />
+    <toRun name="YarpLink.ManService" type="LaunchSettings" />
+    <toRun name="YarpLink.SdkServer.Host" type="LaunchSettings" />
+    <toRun name="YarpLink.SdkService" type="LaunchSettings" />
+    <toRun name="YarpLink.PushService" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>

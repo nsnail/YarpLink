@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="$(SolutionDir)/CodeQuality.props" />
+    <ItemGroup>
+        <ProjectReference Include="../YarpLink.Domain/YarpLink.Domain.csproj" />
+    </ItemGroup>
+</Project>
