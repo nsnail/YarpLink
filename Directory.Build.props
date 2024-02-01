@@ -10,7 +10,7 @@
         <MinVerDefaultPreReleaseIdentifiers>beta</MinVerDefaultPreReleaseIdentifiers>
         <Product>YarpLink</Product>
         <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>http://git.shequnpay.com/lingyun/YarpLink.git</RepositoryUrl>
+        <RepositoryUrl>http://git.haitungj.com/lingyun/YarpLink.git</RepositoryUrl>
         <TargetFramework>net7.0</TargetFramework>
         <Title>$(AssemblyName)</Title>
     </PropertyGroup>

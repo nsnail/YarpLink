@@ -9,4 +9,4 @@ powershell /c ./dot-clean.cmd
 git add .
 git commit -m style
 git push --set-upstream origin %b%
-start http://git.shequnpay.com/lingyun/YarpLink/compare/dev...%b%
+start http://git.haitungj.com/lingyun/YarpLink/compare/dev...%b%
